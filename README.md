@@ -42,3 +42,6 @@ This project is a Hotstar Disney Plus clone, focusing on replicating the home pa
 ![image](https://github.com/Rishi01Prince/Hotstar_Disney_Plus/assets/117525650/e060c1b2-76bb-48d2-8ca5-a74a5ad167b1)
 ![image](https://github.com/Rishi01Prince/Hotstar_Disney_Plus/assets/117525650/f8097e0c-bf23-4596-8b84-8c8aadd9c4a8)
 
+
+
+
